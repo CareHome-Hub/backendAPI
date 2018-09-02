@@ -1,0 +1,51 @@
+[{
+		"date": "2015-01-01",
+		"stats": [{
+			"metrics": {
+				"blocks": 0,
+				"bounce_drops": 0,
+				"bounces": 0,
+				"clicks": 20,
+				"deferred": 0,
+				"delivered": 20,
+				"invalid_emails": 0,
+				"opens": 20,
+				"processed": 0,
+				"requests": 20,
+				"spam_report_drops": 0,
+				"spam_reports": 0,
+				"unique_clicks": 20,
+				"unique_opens": 20,
+				"unsubscribe_drops": 0,
+				"unsubscribes": 20
+			},
+			"name": "cat1",
+			"type": "category"
+		}]
+	},
+
+
+	{
+		"date": "2015-01-01",
+		"stats": [{
+			"metrics": {
+				"blocks": 0,
+				"bounces": 0,
+				"clicks": 20,
+				"delivered": 20,
+				"invalid_emails": 0,
+				"opens": 20,
+				"processed": 0,
+				"requests": 20,
+				"spam_report_drops": 0,
+				"spam_reports": 0,
+				"unique_clicks": 20,
+				"unique_opens": 20,
+				"unsubscribe_drops": 0,
+				"unsubscribes": 20
+			},
+			"name": "cat1",
+			"type": "category"
+		}]
+	}
+]
