@@ -1,0 +1,118 @@
+{
+	"reports": [{
+			"id": "8d6f39ce45",
+			"campaign_title": "Group a",
+			"type": "variate-child",
+			"emails_sent": 1,
+			"abuse_reports": 0,
+			"unsubscribed": 0,
+			"send_time": "2015-09-17T17:41:56+00:00",
+			"bounces": {
+				"hard_bounces": 0,
+				"soft_bounces": 0,
+				"syntax_errors": 0
+			},
+			"forwards": {
+				"forwards_count": 0,
+				"forwards_opens": 0
+			},
+			"opens": {
+				"opens_total": 2,
+				"unique_opens": 1,
+				"open_rate": 1,
+				"last_open": "2015-09-17T17:42:54+00:00"
+			},
+			"clicks": {
+				"clicks_total": 1,
+				"unique_clicks": 1,
+				"unique_subscriber_clicks": 1,
+				"click_rate": 1,
+				"last_click": "2015-09-17T17:42:54+00:00"
+			},
+			"facebook_likes": {
+				"recipient_likes": 0,
+				"unique_likes": 0,
+				"facebook_likes": 0
+			},
+			"industry_stats": {
+				"type": "Social Networks and Online Communities",
+				"open_rate": 0.17076777144396,
+				"click_rate": 0.027431311866951,
+				"bounce_rate": 0.0063767751251474,
+				"unopen_rate": 0.82285545343089,
+				"unsub_rate": 0.001436957032815,
+				"abuse_rate": 0.00021111996110887
+			},
+			"list_stats": {
+				"sub_rate": 10,
+				"unsub_rate": 20,
+				"open_rate": 0,
+				"click_rate": 0
+			},
+			"timeseries": [{
+				"timestamp": "2015-09-17T17:00:00+00:00",
+				"emails_sent": 1,
+				"unique_opens": 0,
+				"recipients_clicks": 0
+			}]
+		},
+
+		{
+			"id": "8d6f39ce45",
+			"campaign_title": "Group a",
+			"type": "variate-child",
+			"emails_sent": 1,
+			"abuse_reports": 0,
+			"unsubscribed": 0,
+			"send_time": "2015-09-17T17:41:56+00:00",
+			"bounces": {
+				"hard_bounces": 0,
+				"soft_bounces": 0,
+				"syntax_errors": 0
+			},
+			"forwards": {
+				"forwards_count": 0,
+				"forwards_opens": 0
+			},
+			"opens": {
+				"opens_total": 2,
+				"unique_opens": 1,
+				"open_rate": 1,
+				"last_open": "2015-09-17T17:42:54+00:00"
+			},
+			"clicks": {
+				"clicks_total": 1,
+				"unique_clicks": 1,
+				"unique_subscriber_clicks": 1,
+				"click_rate": 1,
+				"last_click": "2015-09-17T17:42:54+00:00"
+			},
+			"facebook_likes": {
+				"recipient_likes": 0,
+				"unique_likes": 0,
+				"facebook_likes": 0
+			},
+			"industry_stats": {
+				"type": "Social Networks and Online Communities",
+				"open_rate": 0.17076777144396,
+				"click_rate": 0.027431311866951,
+				"bounce_rate": 0.0063767751251474,
+				"unopen_rate": 0.82285545343089,
+				"unsub_rate": 0.001436957032815,
+				"abuse_rate": 0.00021111996110887
+			},
+			"list_stats": {
+				"sub_rate": 10,
+				"unsub_rate": 20,
+				"open_rate": 0,
+				"click_rate": 0
+			},
+			"timeseries": [{
+				"timestamp": "2015-09-17T17:00:00+00:00",
+				"emails_sent": 1,
+				"unique_opens": 0,
+				"recipients_clicks": 0
+			}]
+		}
+	]
+}

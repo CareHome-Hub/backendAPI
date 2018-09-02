@@ -1,0 +1,7 @@
+flask
+flask-py2neo
+Flask-Bootstrap==3.3.7.1
+neo4j-driver
+pytest
+
+

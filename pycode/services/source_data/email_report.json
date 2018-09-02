@@ -1,0 +1,19 @@
+{
+  "campaign_ref":"",
+  "campaign_lenght":100,
+  "stats" : {
+    "1_hour": {"bounced":10, "opened":20, "actioned":3, "unsubscribe": 2, "unread":65},
+    "6_hour": {"bounced":10, "opened":40, "actioned":9, "unsubscribe": 3, "unread":38},
+    "12_hour":{"bounced":10, "opened":50, "actioned":11, "unsubscribe": 4, "unread":25},
+    "1_day":  {"bounced":10, "opened":57, "actioned":14, "unsubscribe": 5, "unread":14},
+    "7_day":  {"bounced":10, "opened":60, "actioned":15, "unsubscribe": 5, "unread":10},
+    "14_day": {"bounced":10, "opened":60, "actioned":15, "unsubscribe": 5, "unread":10}
+  }
+}
+
+
+
+
+
+
+
