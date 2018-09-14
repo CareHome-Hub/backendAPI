@@ -1,0 +1,9 @@
+[I 180914 11:03:38 __init__:43] /tet/v1/touchpoints
+[I 180914 11:03:38 __init__:46] touchpoint - request.args
+[I 180914 11:04:31 __init__:22] /tet/v1/campaigns
+[I 180914 11:04:31 __init__:24] campaigns.get_campaigns()
+[I 180914 11:04:31 __init__:26] campaign - request.args
+[I 180914 11:08:33 __init__:22] /tet/v1/campaigns
+[I 180914 11:08:33 __init__:24] campaigns.get_campaigns()
+[I 180914 11:08:52 __init__:43] /tet/v1/touchpoints
+[I 180914 11:08:52 __init__:46] touchpoint - request.args
