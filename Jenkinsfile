@@ -4,6 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         sh 'docker build .'
+        sh 'pytest -v'
       }
     }
   }
